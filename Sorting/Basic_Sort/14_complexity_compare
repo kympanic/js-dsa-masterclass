@@ -1,0 +1,7 @@
+
+
+
+                        Time(best)     Time(avg)     Time(worst)   space
+bubbleSort                  o(n)         o(n^2)         o(n^2)      o(1)
+insertionSort               o(n)         o(n^2)         o(n^2)      o(1)
+selectionSort               o(n^2)       o(n^2)         o(n^2)      o(1)
